@@ -25,7 +25,7 @@ body {
 .slide {
     position: relative;
     height: 80vh;
-    margin: 5px;
+    margin: 10px;
     flex-grow: 1;
     color: #ffffff;
     background-size: cover;
